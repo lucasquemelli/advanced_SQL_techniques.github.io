@@ -40,5 +40,10 @@ This is a final project about SQL techniques from a course for Data Engineers.
 ![image](https://user-images.githubusercontent.com/81119854/127232045-353fc6af-e6ab-4bf9-a15a-600d0684fe25.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/127232253-8da053a5-701b-4747-b415-0a60dcad103e.png)
-![image](https://user-images.githubusercontent.com/81119854/127232118-802a7bf0-debc-4d86-8419-95197f1951d6.png)
+
+![image](https://user-images.githubusercontent.com/81119854/127232374-655809ef-f8da-4e6a-9b5c-9c88d35a9b74.png)
+![image](https://user-images.githubusercontent.com/81119854/127232396-a6ae8243-e469-4df3-a98b-a26dd512a3a9.png)
+
+![image](https://user-images.githubusercontent.com/81119854/127232415-2c788e38-baa3-45e6-8a0b-e16b9a8d9ff7.png)
+
 
