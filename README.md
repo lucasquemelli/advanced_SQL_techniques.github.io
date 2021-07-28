@@ -36,3 +36,6 @@ This is a final project about SQL techniques from a course for Data Engineers.
 ![image](https://user-images.githubusercontent.com/81119854/127379210-9de1daea-7e05-4bce-8452-a8b024eabd07.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/127379767-4bdff3f7-8d2c-497a-a88f-844c1f53e715.png)
+
+![image](https://user-images.githubusercontent.com/81119854/127379913-7df717e8-07bf-4164-9464-74034b201803.png)
+
