@@ -61,8 +61,15 @@ This is a final project about SQL techniques from a course for Data Engineers.
 ![image](https://user-images.githubusercontent.com/81119854/127329755-ebc0bc35-b5cc-4e51-8d1f-574f73fc906c.png)
 ![image](https://user-images.githubusercontent.com/81119854/127329797-afd4b611-c316-4eb3-82bd-720ab497fece.png)
 
+![image](https://user-images.githubusercontent.com/81119854/127335478-88d13e70-125b-411d-a4cb-4674a47dd807.png)
+![image](https://user-images.githubusercontent.com/81119854/127335507-d3b6ea5d-934f-4bf8-b667-5fa8dc206d93.png)
+
 ![image](https://user-images.githubusercontent.com/81119854/127335239-e60493ce-f189-4b24-b66e-949f99a3b634.png)
 ![image](https://user-images.githubusercontent.com/81119854/127335296-16d99e27-dcca-454b-b08f-1fb40cc22bce.png)
 ![image](https://user-images.githubusercontent.com/81119854/127335361-0eba4163-176d-493b-9cee-a441159f954f.png)
 
+![image](https://user-images.githubusercontent.com/81119854/127335832-4c5b416b-c7d9-4d2d-b50f-d2360a9ee8c2.png)
+![image](https://user-images.githubusercontent.com/81119854/127335889-5313f25a-7e36-49ad-bdf1-93219c96170b.png)
+![image](https://user-images.githubusercontent.com/81119854/127335940-f7f89ada-ef77-49a5-8b3d-571154869d19.png)
+![image](https://user-images.githubusercontent.com/81119854/127336022-f60c1b3a-33f8-4d6b-a34f-efffe1ad8b02.png)
 
