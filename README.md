@@ -11,5 +11,8 @@ This is a final project about SQL techniques from a course for Data Engineers.
 
 ![image](https://user-images.githubusercontent.com/81119854/127366118-5844211f-9d66-4a71-9696-30389941e2bf.png)
 
+![image](https://user-images.githubusercontent.com/81119854/127366232-844d9ec2-c470-4251-8df2-0c3b536ebd31.png)
+
+![image](https://user-images.githubusercontent.com/81119854/127366299-64d19edb-689c-4716-836f-df4ecf968b02.png)
 
 
