@@ -64,3 +64,11 @@ This is a final project about SQL techniques from a course for Data Engineers.
 ![image](https://user-images.githubusercontent.com/81119854/127382595-67b68751-504d-4f0a-a628-7ecb348a0b30.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/127382666-35bf6538-7c36-4298-a2b5-14563ef98b4f.png)
+
+![image](https://user-images.githubusercontent.com/81119854/127382838-80bc1a09-546e-4ff8-88e1-9688cc99d9e7.png)
+
+![image](https://user-images.githubusercontent.com/81119854/127382889-92e2614f-e5f0-4acb-80f6-de11d5470604.png)
+
+![image](https://user-images.githubusercontent.com/81119854/127382939-4e1170e2-04a3-4300-9468-6c4df4ca473c.png)
+
+![image](https://user-images.githubusercontent.com/81119854/127383017-d3b1b56c-5b08-4675-a33f-966e9b3df026.png)
